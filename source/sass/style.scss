@@ -1,1 +1,29 @@
-// Начните писать стили здесь
+// Options
+@import "./variables.scss";
+@import "./fonts.scss";
+
+// Blocks
+@import "./visually-hiden.scss";
+@import "./blocks/page.scss";
+@import "./blocks/site-menu.scss";
+@import "./blocks/promo.scss";
+@import "./blocks/button.scss";
+@import "./blocks/catalog-sections.scss";
+@import "./blocks/process.scss";
+@import "./blocks/example.scss";
+@import "./blocks/switcher.scss";
+@import "./blocks/contacts.scss";
+@import "./blocks/page-footer.scss";
+@import "./blocks/developer.scss";
+@import "./blocks/logo.scss";
+@import "./blocks/page-main.scss";
+@import "./blocks/catalog-list.scss";
+@import "./blocks/card.scss";
+@import "./blocks/show-more.scss";
+@import "./blocks/catalog-additional.scss";
+@import "./blocks/card-row.scss";
+@import "./blocks/offer.scss";
+@import "./blocks/form.scss";
+@import "./blocks/field-group.scss";
+@import "./blocks/field.scss";
+@import "./blocks/control.scss";

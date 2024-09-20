@@ -1,0 +1,20 @@
+.promo {
+  background-image: linear-gradient(to right, rgba(104, 183, 56, 0.85), rgba(104, 183, 56, 0.85)),
+    url("../img/promo_cat_img.png");
+  font-family: $font-heading;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 20px;
+}
+
+.promo__heading {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 36px;
+}
+
+.promo__text {
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 14px;
+}
